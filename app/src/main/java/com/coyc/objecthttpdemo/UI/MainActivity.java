@@ -60,6 +60,7 @@ public class MainActivity extends AppCompatActivity {
 
                 //如果需要对 文件进行签名使用map1参数获取相应信息
                 //开始定义签名规则
+
                 ArrayList<String > strings = new ArrayList<>();
                 Iterator iterator = prams.entrySet().iterator();
                 while (iterator.hasNext())
